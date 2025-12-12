@@ -1,28 +1,30 @@
 # Sobre mí
 
-Soy **Renato Ibarra**, tengo 25 años y actualmente curso el tercer semestre de Ingeniería en Informática en INACAP, sede Santiago Centro. Este repositorio contiene mis proyectos personales y académicos.
+Soy **Renato Ibarra**, Ingeniero en Ciberseguridad con experiencia comprobada como desarrollador full stack. Actualmente curso el quinto semestre en INACAP, sede Santiago Centro, y combino mi formación académica con experiencia práctica en proyectos de alto impacto para organizaciones líderes en el país.
 
 ## Experiencia Profesional
 
-Tengo experiencia laboral como **desarrollador full stack** y en el área de **ciberseguridad**. He trabajado en proyectos que requieren tanto desarrollo completo de aplicaciones como implementación de medidas de seguridad y análisis de vulnerabilidades.
+Cuento con experiencia laboral sólida como **desarrollador full stack** y especialista en **ciberseguridad**. He liderado y participado en proyectos estratégicos que abarcan desde el desarrollo completo de aplicaciones empresariales hasta la implementación de arquitecturas de seguridad robustas y análisis exhaustivo de vulnerabilidades para entidades de gran prestigio en el país.
 
-## Formación y Habilidades Técnicas
+Mi enfoque combina la excelencia técnica con la comprensión profunda de las necesidades del negocio, entregando soluciones que no solo cumplen con los requisitos técnicos, sino que también generan valor tangible para las organizaciones.
 
-Como desarrollador full stack, trabajo tanto en front-end como en back-end. En front-end utilizo HTML, CSS, Tailwind, Bootstrap y React para construir interfaces responsivas y optimizadas. En backend, desarrollo con Python, Django, JavaScript y PHP, integrando APIs REST y servicios externos.
+## Competencias Técnicas
 
-En desarrollo móvil, he trabajado con React Native y Kotlin para Android, utilizando Android Studio y sus herramientas relacionadas.
+**Desarrollo Full Stack**: Especializado en el diseño y desarrollo de aplicaciones web y móviles de alto rendimiento. En front-end, desarrollo interfaces modernas, responsivas y optimizadas utilizando HTML5, CSS3, Tailwind CSS, Bootstrap y React. En backend, construyo APIs escalables y servicios robustos con Python, Django y JavaScript, integrando sistemas complejos y servicios externos mediante arquitecturas REST.
 
-En ciberseguridad, aplico mis conocimientos técnicos para identificar vulnerabilidades, implementar medidas de seguridad y proteger aplicaciones y sistemas.
+**Desarrollo Móvil**: Experiencia en el desarrollo de aplicaciones nativas y multiplataforma utilizando React Native, Kotlin y Java, trabajando con Android Studio y las herramientas del ecosistema Android para crear experiencias de usuario excepcionales.
 
-En cuanto a sistemas operativos, tengo experiencia práctica con Linux (especialmente Red Hat) y Windows Server. He administrado servidores Apache y configurado entornos de red.
+**Ciberseguridad**: Aplico metodologías avanzadas de seguridad para identificar, analizar y mitigar vulnerabilidades en aplicaciones y sistemas. Implemento controles de seguridad, realizo auditorías de código y diseño arquitecturas resilientes que protegen los activos digitales de las organizaciones.
 
-En bases de datos, he trabajado con MongoDB, PostgreSQL (incluyendo PostgREST), MySQL, MariaDB, Microsoft SQL Server y Oracle. Esto me ha permitido trabajar con diferentes modelos de datos según las necesidades del proyecto.
+**Sistemas y Infraestructura**: Experiencia práctica en administración de sistemas Linux (Red Hat, Parrot OS) y Windows Server. He configurado y optimizado entornos de producción, gestionado infraestructura crítica y garantizado la disponibilidad y seguridad de los servicios.
 
-También tengo experiencia en metodologías ágiles, análisis de requerimientos y diseño de diagramas de flujo.
+**Bases de Datos**: Dominio en el diseño, implementación y optimización de bases de datos relacionales y NoSQL. He trabajado con MongoDB, PostgreSQL (incluyendo PostgREST), MySQL, MariaDB, Microsoft SQL Server y Oracle, adaptando la solución de datos según los requisitos de rendimiento, escalabilidad y seguridad de cada proyecto.
 
-## Objetivo Profesional
+**Metodologías y Procesos**: Experiencia en metodologías ágiles, gestión de proyectos, análisis de requerimientos y diseño de arquitecturas de software. Capacidad para trabajar en equipos multidisciplinarios y comunicar soluciones técnicas a stakeholders de diferentes niveles.
 
-Busco oportunidades donde pueda aplicar y expandir mis conocimientos en desarrollo full stack y ciberseguridad, trabajar en proyectos desafiantes y seguir creciendo profesionalmente.
+## Valor Profesional
+
+Mi perfil combina la versatilidad del desarrollo full stack con la especialización en ciberseguridad, lo que me permite no solo construir soluciones innovadoras, sino también garantizar que estas cumplan con los más altos estándares de seguridad. Estoy comprometido con la excelencia técnica y la entrega de resultados que generen impacto positivo en las organizaciones.
 
 ## Redes Sociales
 
@@ -42,10 +44,10 @@ Busco oportunidades donde pueda aplicar y expandir mis conocimientos en desarrol
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgREST](https://img.shields.io/badge/PostgREST-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Mobile
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
@@ -60,11 +62,12 @@ Busco oportunidades donde pueda aplicar y expandir mis conocimientos en desarrol
 ### Sistemas Operativos y Servidores
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-4C5A5F?style=for-the-badge&logo=parrot-security&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Cloud y DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
