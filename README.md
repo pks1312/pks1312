@@ -76,4 +76,3 @@ Busco oportunidades donde pueda aplicar y expandir mis conocimientos en desarrol
 ---
 
 Si te interesa alguno de mis proyectos, puedes darle una estrella. Gracias por visitar mi perfil.
-
