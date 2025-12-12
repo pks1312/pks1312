@@ -1,22 +1,28 @@
 # Sobre mí
 
-Soy **Renato Ibarra**, tengo 23 años y actualmente curso el tercer semestre de Ingeniería en Informática en INACAP, sede Santiago Centro. Este repositorio contiene mis proyectos personales y académicos.
+Soy **Renato Ibarra**, tengo 25 años y actualmente curso el tercer semestre de Ingeniería en Informática en INACAP, sede Santiago Centro. Este repositorio contiene mis proyectos personales y académicos.
 
-## Formación y Experiencia
+## Experiencia Profesional
 
-Mi experiencia se centra principalmente en desarrollo front-end con HTML, CSS, Tailwind, Bootstrap y React. He trabajado en proyectos que requieren interfaces responsivas y optimizadas para diferentes dispositivos.
+Tengo experiencia laboral como **desarrollador full stack** y en el área de **ciberseguridad**. He trabajado en proyectos que requieren tanto desarrollo completo de aplicaciones como implementación de medidas de seguridad y análisis de vulnerabilidades.
 
-En backend, trabajo con Python, Django, JavaScript y PHP. He integrado APIs REST y desarrollado aplicaciones que consumen servicios externos. También tengo experiencia en metodologías ágiles, análisis de requerimientos y diseño de diagramas de flujo.
+## Formación y Habilidades Técnicas
+
+Como desarrollador full stack, trabajo tanto en front-end como en back-end. En front-end utilizo HTML, CSS, Tailwind, Bootstrap y React para construir interfaces responsivas y optimizadas. En backend, desarrollo con Python, Django, JavaScript y PHP, integrando APIs REST y servicios externos.
 
 En desarrollo móvil, he trabajado con React Native y Kotlin para Android, utilizando Android Studio y sus herramientas relacionadas.
+
+En ciberseguridad, aplico mis conocimientos técnicos para identificar vulnerabilidades, implementar medidas de seguridad y proteger aplicaciones y sistemas.
 
 En cuanto a sistemas operativos, tengo experiencia práctica con Linux (especialmente Red Hat) y Windows Server. He administrado servidores Apache y configurado entornos de red.
 
 En bases de datos, he trabajado con MongoDB, PostgreSQL (incluyendo PostgREST), MySQL, MariaDB, Microsoft SQL Server y Oracle. Esto me ha permitido trabajar con diferentes modelos de datos según las necesidades del proyecto.
 
+También tengo experiencia en metodologías ágiles, análisis de requerimientos y diseño de diagramas de flujo.
+
 ## Objetivo Profesional
 
-Busco oportunidades donde pueda aplicar y expandir mis conocimientos técnicos, trabajar en proyectos desafiantes y seguir aprendiendo en un entorno profesional.
+Busco oportunidades donde pueda aplicar y expandir mis conocimientos en desarrollo full stack y ciberseguridad, trabajar en proyectos desafiantes y seguir creciendo profesionalmente.
 
 ## Redes Sociales
 
