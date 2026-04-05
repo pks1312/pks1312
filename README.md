@@ -60,6 +60,15 @@ Resuelvo máquinas HTB en mi tiempo libre. Documento el proceso completo con wri
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="metrics.languages.svg" alt="Most used languages" width="495"/>
+  <img src="metrics.isocalendar.svg" alt="Isometric calendar" width="495"/>
+</div>
+
+---
+
 ## 🤝 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-ibarra)
