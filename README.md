@@ -1,16 +1,16 @@
 # Hola, soy Renato 👋
 
-Estudiante de tercer año de Ingeniería en Informática. Trabajo como desarrollador full stack mientras me especializo en ciberseguridad ofensiva. Me interesan las aplicaciones web, la infraestructura y entender cómo se rompen las cosas para construirlas mejor.
+Estudiante de tercer año de Ingeniería en Informática y desarrollador full stack. Mi enfoque actual es crecer en el ecosistema **Azure** — aplicaciones cloud, servicios administrados e integración con el stack de Microsoft. Fuera del trabajo, resuelvo máquinas en HackTheBox por hobby.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Cursando **Ingeniería en Informática** (3er año)
-- 💼 Desarrollador **Full Stack** — Python/Django, React, .NET
-- 🔐 Aprendiendo ciberseguridad ofensiva — explotación web, reconocimiento, HTB
-- 🌱 Explorando DevOps en **Azure** y **AWS**
-- 🐧 Usuario habitual de **Kali Linux**, **Ubuntu** y **Red Hat**
+- 💼 Desarrollador **Full Stack** — Python/Django, React/TS, .NET
+- ☁️ Creciendo en el ecosistema **Azure** — mi enfoque actual
+- 🗄️ Cómodo con SQL Server, PostgreSQL, MySQL y MongoDB
+- 🎯 Hobby: HackTheBox — explotación web y reconocimiento
 
 ---
 
@@ -29,38 +29,34 @@ Estudiante de tercer año de Ingeniería en Informática. Trabajo como desarroll
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Bases de datos
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Sistemas operativos
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### Seguridad
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
-## 🔐 Ciberseguridad — HackTheBox
+## 🎯 HackTheBox — hobby
 
-Resuelvo máquinas HTB para practicar técnicas ofensivas de forma controlada. Documento cada máquina con write-ups detallados que incluyen el proceso completo, las vulnerabilidades encontradas y la remediación.
+Resuelvo máquinas HTB en mi tiempo libre. Documento el proceso completo con write-ups que incluyen vulnerabilidades encontradas, técnicas utilizadas y remediación.
 
-| Máquina | OS | Dificultad | Técnica principal |
-|---------|----|------------|-------------------|
+| Máquina | OS | Dificultad | Técnicas |
+|---------|----|------------|----------|
 | [Principal](https://github.com/pks1312/htb-writeups/blob/main/machines/principal/writeup.md) | Linux | Medium | JWT alg:none · JWE forgery · SSH CA abuse |
 
-📁 [Ver todos los write-ups →](https://github.com/pks1312/htb-writeups)
+📁 [Ver write-ups →](https://github.com/pks1312/htb-writeups)
 
 ---
 
